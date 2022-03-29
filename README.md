@@ -6,6 +6,7 @@ While speedrunning Spyro the Dragon on an emulator, you lose time compared to a 
 This component enables you to "have your cake and eat it too," so to speak, by simulating the game's music playback using sound files you store on your file system, reading the game's memory to automatically determine which level you're on and whether music should be playing right now.
 
 ### Coming Soon
+* Code
 * A release
 * Instructions on how to extract music from your Spyro the Dragon ISO file
 * Instructions on how to add music to this plugin
